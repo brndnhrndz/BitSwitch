@@ -1,0 +1,5 @@
+# .gitignore for local BitSwitch repo
+# adjust as needed
+
+build/
+*.exe
